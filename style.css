@@ -1,4 +1,5 @@
+body{padding-left: 10%;}
 body{background-color: lightcyan;}
-h1{font-family: 'Times New Roman', Times, serif; font: bold; text-align: center; font-size: larger;}
+h1{font-family: 'Times New Roman', Times, serif; font: bold; font-size: larger; text-align: center;}
 text{font-family: 'Times New Roman', Times, serif;}
 img{margin-left: 3%;}
