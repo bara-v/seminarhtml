@@ -9,7 +9,10 @@ h2{font-family: Arial, Helvetica, sans-serif;}
 
 text{font-family: Arial, Helvetica, sans-serif;}
 
-img{float: right;
-margin-right: 10px;
+img{margin-right: 5%;
+    margin-left: 5%;
 border-color: black;
 border: 2px;}
+
+.vpravo{float: right;}
+.vlevo{float:left;}
