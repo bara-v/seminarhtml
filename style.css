@@ -6,3 +6,5 @@ h1{font-weight: bold;
     text-align: center;}
 h2{font-family: Arial, Helvetica, sans-serif;}
 text{font-family: Arial, Helvetica, sans-serif;}
+img{float: left;
+margin-right: 10px;}
