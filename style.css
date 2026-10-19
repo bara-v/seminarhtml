@@ -1,9 +1,15 @@
 body{margin-left: 10%;}
+
 body{background-color: lightcyan;
 font-family: Arial, Helvetica, sans-serif;}
-h1{font-size: 5000px; 
-    text-align: center;}
+
+h1{text-align: center;}
+
 h2{font-family: Arial, Helvetica, sans-serif;}
+
 text{font-family: Arial, Helvetica, sans-serif;}
-img{float: left;
-margin-right: 10px;}
+
+img{float: right;
+margin-right: 10px;
+border-color: black;
+border: 2px;}
